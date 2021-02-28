@@ -11,7 +11,7 @@ The top 8 buttons allow a user to cook specific foods by sensing, however the bu
 
 ##### Flat Interface
 For a person with a seeing disability, this microwave would be difficult to operate. All the buttons are flush with the panel and have no textile indicator as to which buttons are which. This makes it very difficult to be accurate with your selection.
-
+## B
 ### Common Uses
 - Reheating leftovers
 - Cooking premade meals
@@ -27,7 +27,7 @@ The “Express Cook” feature is also very limiting, as certain things require 
 ### Sequence of Actions
 The most common sequence of actions is pressing an **_Express Cook_** button 1 - 6, followed by the **_Start_** button to add 30 seconds. 
 
-## B
+### Support
 
 
 ## A

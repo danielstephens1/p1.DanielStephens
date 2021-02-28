@@ -15,6 +15,7 @@ For a person with a seeing disability, this microwave would be difficult to oper
 ### Common Uses
 - Reheating leftovers
 - Cooking premade meals
+
 The “Express Cook” feature is most useful when reheating leftover food. By pressing a single button, I can reheat cold food to a very hot temperature without any thought. The “Start” button also acts as an “add 30 seconds” button to quickly add 30 seconds to the timer.
 
 ## B

@@ -1,7 +1,8 @@
 # p1.DanielStephens
 
 ## C
-![Microwave Interface -1](https://user-images.githubusercontent.com/49926015/109437127-f1246580-79e8-11eb-836a-cdc03145f5d9.jpg)
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/49926015/109437251-6f810780-79e9-11eb-9804-5300dbd25772.jpg)
+
 
 
 ### Issues with Initial Design

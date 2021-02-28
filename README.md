@@ -1,7 +1,7 @@
 # p1.DanielStephens
 
-
-## Issues
+## C
+### Issues
 
 ##### Express Cook
 The design of the control panel includes “Express Cook” which allows for single button presses 1-6 that will cook food for the given selection. The problem with this is it doesn’t allow for specific time cooking. If you wanted to cook for 45 seconds, it would be impossible to set the timer for that duration.
@@ -12,8 +12,13 @@ The top 8 buttons allow a user to cook specific foods by sensing, however the bu
 ##### Flat Interface
 For a person with a seeing disability, this microwave would be difficult to operate. All the buttons are flush with the panel and have no textile indicator as to which buttons are which. This makes it very difficult to be accurate with your selection.
 
-## Common Uses
+### Common Uses
 
+
+## B
+
+
+## A
 
 Project 1 URL: https://danielstephens1.github.io/p1.DanielStephens/
 

@@ -3,7 +3,8 @@
 ## C
 ### Issues with Initial Design
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/49926015/109436941-e2897e80-79e7-11eb-8653-e1ff305e66e7.gif)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/49926015/109436982-1f557580-79e8-11eb-836a-b836e3c04f87.gif)
+
 
 
 ##### Express Cook

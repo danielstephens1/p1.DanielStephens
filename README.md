@@ -18,6 +18,15 @@ For a person with a seeing disability, this microwave would be difficult to oper
 
 The “Express Cook” feature is most useful when reheating leftover food. By pressing a single button, I can reheat cold food to a very hot temperature without any thought. The “Start” button also acts as an “add 30 seconds” button to quickly add 30 seconds to the timer.
 
+### Rare Uses
+- Softening butter
+- Cooking popcorn/vegetables
+
+The “Express Cook” feature is also very limiting, as certain things require more precision than others. When softening butter, I usually need only 10 seconds, but entering 10 seconds is impossible due to the “Express Cook” feature. Instead of 1 second when pressing the “1” button, it will select “1 minute”, making smaller timers impossible.
+
+### Sequence of Actions
+The most common sequence of actions is pressing an **Express Cook** button 1 - 6, followed by the **Start** button to add 30 seconds. 
+
 ## B
 
 

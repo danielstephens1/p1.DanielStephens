@@ -25,7 +25,7 @@ The “Express Cook” feature is most useful when reheating leftover food. By p
 The “Express Cook” feature is also very limiting, as certain things require more precision than others. When softening butter, I usually need only 10 seconds, but entering 10 seconds is impossible due to the “Express Cook” feature. Instead of 1 second when pressing the “1” button, it will select “1 minute”, making smaller timers impossible.
 
 ### Sequence of Actions
-The most common sequence of actions is pressing an **__Express Cook__** button 1 - 6, followed by the **Start** button to add 30 seconds. 
+The most common sequence of actions is pressing an **_Express Cook_** button 1 - 6, followed by the **_Start_** button to add 30 seconds. 
 
 ## B
 

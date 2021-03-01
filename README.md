@@ -2,7 +2,8 @@
 
 Project 1 URL: https://danielstephens1.github.io/p1.DanielStephens/
 
-![MicrowaveControlPanel](https://user-images.githubusercontent.com/49926015/109455701-c94ef500-7a1c-11eb-81be-63d6a18151f2.jpg)
+![MicrowaveControlPanel_3_1000x500](https://user-images.githubusercontent.com/49926015/109456097-b1c43c00-7a1d-11eb-88e8-541ddfade8e2.jpg)
+
 ![MicrowaveInUse](https://user-images.githubusercontent.com/49926015/109455721-d23fc680-7a1c-11eb-9ed7-fb523cd231a7.gif)
 
 
